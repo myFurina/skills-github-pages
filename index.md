@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-<h1>genshin</h1>
+<h1>nice to meet you</h1>
